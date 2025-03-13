@@ -1,1 +1,1 @@
-# sdev120_spring_2025
+This repository contains assorted handouts, notes, supplemental exercises, and anything else I may find useful for students taking my SDEV120 class. Please do not be alarmed if you find them being updated frequently. I'm a strong believer in continuous improvement, as well as having trouble deciding when I'm done with something. Feel free to reuse/remix/whatever.
