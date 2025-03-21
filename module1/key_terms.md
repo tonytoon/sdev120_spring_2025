@@ -52,7 +52,7 @@ hardware
 high-level programming language
 
 infinite loop
-
+- a repeating flow of logic with no end
 information
 
 input
@@ -70,7 +70,7 @@ logic
 logical errors
 
 loop
-
+-the repetition of a series of steps
 low-level programming language
 
 machine language
