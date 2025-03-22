@@ -32,11 +32,11 @@ decision symbol
 desk-checking
 
 documentation
-
+- Information regarding the process and changes made in development
 dummy value
 
 end users
-
+- People that are utilizing the systems 
 eof
 
 executes
