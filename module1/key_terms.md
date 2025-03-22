@@ -122,9 +122,9 @@ source code
 storage device
 
 syntax
-
+- rules of a language
 syntax errors
-
+-  Mistakes in a language’s usage
 system software
 
 terminal symbols
