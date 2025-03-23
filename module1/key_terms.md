@@ -7,6 +7,8 @@ application software
 
 binary language
 
+Known as the language of computers, it is a series of 1's and 0's that the computer is able to read and follow. 
+
 central processing unit (CPU)
 
 cloud
@@ -14,6 +16,8 @@ cloud
 coding the program
 
 command line
+
+An interface with the computer that allows users to input text-based instructions that the computer preforms.
 
 compiler
 
