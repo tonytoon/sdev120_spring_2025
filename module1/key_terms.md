@@ -134,5 +134,6 @@ text editor
 users
 
 variable
-
+-a data item that may take on more than one value during the runtime of a program.
 volatile
+-liable to change rapidly and unpredictably, especially for the worse.
