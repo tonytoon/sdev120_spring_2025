@@ -10,7 +10,7 @@ binary language
 central processing unit (CPU)
 
 cloud
-
+- Devices at remote locations accessed through the internet.
 coding the program
 
 command line
@@ -122,7 +122,7 @@ source code
 storage device
 
 syntax
-
+-Rules that govern word usage and what punctuation is used in every programming language.
 syntax errors
 
 system software
