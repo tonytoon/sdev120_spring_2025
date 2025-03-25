@@ -1,7 +1,7 @@
 ### algorithm
 - the sequence of steps necessary to solve any problem.
 
-app
+app 
 
 application software
 
@@ -75,9 +75,9 @@ low-level programming language
 
 machine language
 
-maintenance
+maintenance - the improvements and corrections made to a program after it is in production
 
-nonvolatile
+nonvolatile - describes storage that retains its contents when power is lost
 
 object code
 
