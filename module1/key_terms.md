@@ -127,8 +127,10 @@ storage device
 
 syntax
 -Rules that govern word usage and what punctuation is used in every programming language.
-syntax errors
+- rules of a language
 
+syntax errors
+-  Mistakes in a language’s usage
 system software
 
 terminal symbols
