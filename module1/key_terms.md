@@ -1,19 +1,23 @@
 ### algorithm
 - the sequence of steps necessary to solve any problem.
 
-app
+app 
 
 application software
 
 binary language
 
+Known as the language of computers, it is a series of 1's and 0's that the computer is able to read and follow. 
+
 central processing unit (CPU)
 
 cloud
-
+- Devices at remote locations accessed through the internet.
 coding the program
 
-command line
+command line - a text-based user interface where users interact with a computer's operating system by typing commands, rather than using a graphical interface with icons and buttons.
+
+An interface with the computer that allows users to input text-based instructions that the computer preforms.
 
 compiler
 
@@ -32,11 +36,11 @@ decision symbol
 desk-checking
 
 documentation
-
+- Information regarding the process and changes made in development
 dummy value
 
 end users
-
+- People that are utilizing the systems 
 eof
 
 executes
@@ -75,9 +79,9 @@ low-level programming language
 
 machine language
 
-maintenance
+maintenance - the improvements and corrections made to a program after it is in production
 
-nonvolatile
+nonvolatile - describes storage that retains its contents when power is lost
 
 object code
 
@@ -122,7 +126,9 @@ source code
 storage device
 
 syntax
+-Rules that govern word usage and what punctuation is used in every programming language.
 - rules of a language
+
 syntax errors
 -  Mistakes in a language’s usage
 system software
@@ -134,5 +140,6 @@ text editor
 users
 
 variable
-
+-a data item that may take on more than one value during the runtime of a program.
 volatile
+-liable to change rapidly and unpredictably, especially for the worse.
