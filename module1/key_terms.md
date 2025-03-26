@@ -13,7 +13,7 @@ cloud
 - Devices at remote locations accessed through the internet.
 coding the program
 
-command line
+command line - a text-based user interface where users interact with a computer's operating system by typing commands, rather than using a graphical interface with icons and buttons.
 
 compiler
 
